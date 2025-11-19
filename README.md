@@ -1,4 +1,4 @@
 # Parcial Práctico 2
 
-- Nombre:
-- código:
+- Nombre: Nicolás Hernández Atehortúa
+- código: 202410191
