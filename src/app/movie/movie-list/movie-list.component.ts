@@ -2,6 +2,7 @@ import { Component, InjectionToken, OnInit } from '@angular/core';
 import { Movie } from '../Movie';
 import { moviesData } from '../moviesData';
 import { MovieService } from '../movie.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-movie-list',
